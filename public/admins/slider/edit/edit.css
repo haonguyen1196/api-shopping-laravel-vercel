@@ -1,0 +1,5 @@
+.image_slider {
+    height: 150px;
+    width: 100%;
+    object-fit: contain;
+}

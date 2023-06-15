@@ -1,0 +1,14 @@
+.card_header_title {
+    background-color: #007BFF;
+};
+
+.alert.alert-danger {
+    padding-top: 4px;
+    padding-bottom: 4px;
+};
+
+.label-header {
+    margin-bottom: 0;
+    position: relative;
+    left: -7.5px;
+};
